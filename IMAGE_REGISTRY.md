@@ -1,0 +1,30 @@
+# Image Registry — Overcoatwinter
+
+Documenting 20 authentic high-resolution images (>20KB) for overcoatwinter in niche jacket.
+
+| File Name | Size (KB) | SHA256 Hash | Visual Subject |
+| :--- | :--- | :--- | :--- |
+| `lightweight_parka_hero_banner.jpg` | 108.4 KB | `ef4cd33c77e0e78a...` | Lightweight Parka Hero Banner |
+| `urban_commuter_rain_parka.jpg` | 164.9 KB | `64bc8c87a37a05cc...` | Urban Commuter Rain Parka |
+| `3_layer_laminate_textile.jpg` | 74.6 KB | `70dae05d91b66ffc...` | 3 Layer Laminate Textile |
+| `waterproof_membrane_cross_section.jpg` | 79.8 KB | `ded17274ea1760e5...` | Waterproof Membrane Cross Section |
+| `dwr_water_droplet_beading.jpg` | 54.2 KB | `ea78d70eeafea8e7...` | Dwr Water Droplet Beading |
+| `ultrasonic_welded_seam_tape.jpg` | 69.3 KB | `a827dc37a101ed2f...` | Ultrasonic Welded Seam Tape |
+| `ergonomic_raglan_sleeve_cut.jpg` | 106.2 KB | `43125c4b9d2a518b...` | Ergonomic Raglan Sleeve Cut |
+| `hydrostatic_head_tester_rig.jpg` | 120.6 KB | `cc07bcd0003ff708...` | Hydrostatic Head Tester Rig |
+| `laser_cut_bonded_pocket_welts.jpg` | 139.6 KB | `b6992b0e66fa0df8...` | Laser Cut Bonded Pocket Welts |
+| `pit_zip_ventilation_mesh.jpg` | 141.2 KB | `193407bb1a3bfa5d...` | Pit Zip Ventilation Mesh |
+| `ret_sweating_hot_plate_apparatus.jpg` | 150.0 KB | `3fc985e289b6253a...` | Ret Sweating Hot Plate Apparatus |
+| `technical_mountain_shell_graphite.jpg` | 216.6 KB | `21ce31067d440ffe...` | Technical Mountain Shell Graphite |
+| `storm_hood_cinch_detail.jpg` | 213.2 KB | `48457e136f094d1e...` | Storm Hood Cinch Detail |
+| `underarm_gusset_articulation.jpg` | 189.8 KB | `6fb9a64d09e6ace9...` | Underarm Gusset Articulation |
+| `ykk_aquaguard_zipper_seal.jpg` | 111.1 KB | `03205784c60f8c0f...` | Ykk Aquaguard Zipper Seal |
+| `featherweight_pertex_fabric.jpg` | 157.7 KB | `1c4cd02b5cd35803...` | Featherweight Pertex Fabric |
+| `blog_aerogel.jpg` | 108.0 KB | `bcf08746c8ecfaff...` | Blog Aerogel |
+| `blog_care.jpg` | 78.0 KB | `32d8326fe6e407c0...` | Blog Care |
+| `blog_insulation.jpg` | 115.8 KB | `e795c68e27153bbb...` | Blog Insulation |
+| `blog_weatherproofing.jpg` | 111.8 KB | `2a7933d74b6600fc...` | Blog Weatherproofing |
+
+- Total Images: 20
+- Hashes: 100% Unique
+- Minimum Size: >20KB verified
