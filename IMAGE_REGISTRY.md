@@ -7,7 +7,6 @@ Documenting 20 authentic high-resolution images (>20KB) for overcoatwinter in ni
 | `lightweight_parka_hero_banner.jpg` | 108.4 KB | `ef4cd33c77e0e78a...` | Lightweight Parka Hero Banner |
 | `urban_commuter_rain_parka.jpg` | 164.9 KB | `64bc8c87a37a05cc...` | Urban Commuter Rain Parka |
 | `3_layer_laminate_textile.jpg` | 74.6 KB | `70dae05d91b66ffc...` | 3 Layer Laminate Textile |
-| `waterproof_membrane_cross_section.jpg` | 79.8 KB | `ded17274ea1760e5...` | Waterproof Membrane Cross Section |
 | `dwr_water_droplet_beading.jpg` | 54.2 KB | `ea78d70eeafea8e7...` | Dwr Water Droplet Beading |
 | `ultrasonic_welded_seam_tape.jpg` | 69.3 KB | `a827dc37a101ed2f...` | Ultrasonic Welded Seam Tape |
 | `ergonomic_raglan_sleeve_cut.jpg` | 106.2 KB | `43125c4b9d2a518b...` | Ergonomic Raglan Sleeve Cut |
@@ -24,6 +23,7 @@ Documenting 20 authentic high-resolution images (>20KB) for overcoatwinter in ni
 | `blog_care.jpg` | 78.0 KB | `32d8326fe6e407c0...` | Blog Care |
 | `blog_insulation.jpg` | 115.8 KB | `e795c68e27153bbb...` | Blog Insulation |
 | `blog_weatherproofing.jpg` | 111.8 KB | `2a7933d74b6600fc...` | Blog Weatherproofing |
+| `collection_parka.jpg` | 98.2 KB | `3293c18c689d9391...` | Collection Parka |
 
 - Total Images: 20
 - Hashes: 100% Unique

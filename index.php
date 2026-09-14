@@ -176,7 +176,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/waterproof_membrane_cross_section.jpg" alt="Waterproof Membrane Cross Section">
+            <img src="/assets/images/dwr_water_droplet_beading.jpg" alt="Dwr Water Droplet Beading">
             <span class="card-tag">Heritage Reserve</span>
           </div>
           <div class="card-body">
@@ -192,7 +192,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/dwr_water_droplet_beading.jpg" alt="Dwr Water Droplet Beading">
+            <img src="/assets/images/ultrasonic_welded_seam_tape.jpg" alt="Ultrasonic Welded Seam Tape">
             <span class="card-tag">Classic Reserve</span>
           </div>
           <div class="card-body">
@@ -208,7 +208,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/ultrasonic_welded_seam_tape.jpg" alt="Ultrasonic Welded Seam Tape">
+            <img src="/assets/images/ergonomic_raglan_sleeve_cut.jpg" alt="Ergonomic Raglan Sleeve Cut">
             <span class="card-tag">Atelier Exclusive</span>
           </div>
           <div class="card-body">
@@ -224,7 +224,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/ergonomic_raglan_sleeve_cut.jpg" alt="Ergonomic Raglan Sleeve Cut">
+            <img src="/assets/images/hydrostatic_head_tester_rig.jpg" alt="Hydrostatic Head Tester Rig">
             <span class="card-tag">Patron Edition</span>
           </div>
           <div class="card-body">
@@ -240,7 +240,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/hydrostatic_head_tester_rig.jpg" alt="Hydrostatic Head Tester Rig">
+            <img src="/assets/images/laser_cut_bonded_pocket_welts.jpg" alt="Laser Cut Bonded Pocket Welts">
             <span class="card-tag">SoHo Signature</span>
           </div>
           <div class="card-body">
@@ -278,7 +278,7 @@
           <a href="/blog/material-provenance-and-fiber-crystallography.html" class="btn btn-outline btn-sm">Read Material Science Treatise</a>
         </div>
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md);">
-          <img src="/assets/images/laser_cut_bonded_pocket_welts.jpg" alt="Material inspection and quality verification at the workshop">
+          <img src="/assets/images/pit_zip_ventilation_mesh.jpg" alt="Material inspection and quality verification at the workshop">
         </div>
       </div>
     </div>
@@ -289,7 +289,7 @@
     <div class="container">
       <div class="grid-2">
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md);">
-          <img src="/assets/images/pit_zip_ventilation_mesh.jpg" alt="Artisan drafting patterns at 181 Mercer Street">
+          <img src="/assets/images/ret_sweating_hot_plate_apparatus.jpg" alt="Artisan drafting patterns at 181 Mercer Street">
         </div>
         <div>
           <span class="hero-badge">Flagship Fitting Suite</span>
@@ -422,7 +422,7 @@
       <div class="grid-3">
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/ret_sweating_hot_plate_apparatus.jpg" alt="Material Provenance and Fiber Crystallography">
+            <img src="/assets/images/technical_mountain_shell_graphite.jpg" alt="Material Provenance and Fiber Crystallography">
             <span class="card-tag">Textile Science</span>
           </div>
           <div class="card-body">
@@ -434,7 +434,7 @@
         </div>
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/technical_mountain_shell_graphite.jpg" alt="Micro-Engineering Tolerances in Haute Finishing">
+            <img src="/assets/images/storm_hood_cinch_detail.jpg" alt="Micro-Engineering Tolerances in Haute Finishing">
             <span class="card-tag">Precision Engineering</span>
           </div>
           <div class="card-body">
@@ -446,7 +446,7 @@
         </div>
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/storm_hood_cinch_detail.jpg" alt="Biomechanical Ergonomics in Bespoke Wear">
+            <img src="/assets/images/underarm_gusset_articulation.jpg" alt="Biomechanical Ergonomics in Bespoke Wear">
             <span class="card-tag">Anatomical Physics</span>
           </div>
           <div class="card-body">
